@@ -8,6 +8,6 @@ My favorite library is THREE.js and i have been working with it for 2 years.
 
 ## 🚀 Skills
 
-![alt text](https://i.ibb.co/vLRyjXQ/Skills-Extend.png  )
+![alt text](https://i.ibb.co/5TzZ7ZY/Skills-Extend-final.png) 
 
 
