@@ -6,6 +6,8 @@ My favorite library is THREE.js and i have been working with it for 2 years.
 
 - 📫 How to reach me ...  georgepavlideswork@gmail.com
 
+## 🚀 Skills
 
+![alt text](https://i.ibb.co/V213P9T/GITHUB-BANNER-PROFILE-SKILLS.png)  
 
 
