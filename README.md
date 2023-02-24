@@ -50,6 +50,20 @@
       alt="Sass"
       height="75"
   /></a>
+  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"
+    ><img
+      style="margin: 18px"
+      src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"
+      alt="Bootstrap"
+      height="75"
+  /></a>
+  <a href="https://www.tailwindcss.com/" target="_blank"
+    ><img
+      style="margin: 18px"
+      src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg"
+      alt="Tailwind CSS"
+      height="75"
+  /></a>
   <a href="https://www.javascript.com/" target="_blank"
     ><img
       style="margin: 18px"
@@ -71,18 +85,18 @@
       alt="React"
       height="75"
   /></a>
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"
+  <a href="https://mui.com/" target="_blank"
     ><img
       style="margin: 18px"
-      src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"
-      alt="Bootstrap"
+      src="https://github.com/mui/material-ui/raw/master/docs/public/static/logo.svg"
+      alt="MUI"
       height="75"
   /></a>
-  <a href="https://www.tailwindcss.com/" target="_blank"
+  <a href="https://www.mongodb.com/" target="_blank"
     ><img
       style="margin: 18px"
-      src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg"
-      alt="Tailwind CSS"
+      src="https://www.svgrepo.com/show/331488/mongodb.svg"
+      alt="MongoDB"
       height="75"
   /></a>
   <a href="https://github.com/" target="_blank"
@@ -129,7 +143,18 @@
       alt="Figma"
       height="75"
   /></a>
+  <a href="https://www.steinberg.net/cubase/" target="_blank"
+    ><img
+      style="margin: 18px"
+      src="https://i.ibb.co/zmYPJdL/cu8800cbf7-cubase-logo-cubase-icon-small-audient.png"
+      alt="Cubas"
+      height="75"
+  /></a>
 </div>
+
+
+
+
 
 </td><td valign="top" width="33%">
 
