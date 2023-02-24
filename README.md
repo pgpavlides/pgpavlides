@@ -50,6 +50,13 @@
       alt="Sass"
       height="75"
   /></a>
+  <a href="https://stylus-lang.com/" target="_blank"
+    ><img
+      style="margin: 18px"
+      src="https://stylus-lang.com/logo.svg"
+      alt="Stylus"
+      height="75"
+  /></a>
   <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"
     ><img
       style="margin: 18px"
@@ -90,6 +97,13 @@
       style="margin: 18px"
       src="https://github.com/mui/material-ui/raw/master/docs/public/static/logo.svg"
       alt="MUI"
+      height="75"
+  /></a> 
+  <a href="https://threejs.org/" target="_blank"
+    ><img
+      style="margin: 18px"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/768px-Three.js_Icon.svg.png?20211115112438"
+      alt="ThreeJs"
       height="75"
   /></a>
   <a href="https://www.mongodb.com/" target="_blank"
