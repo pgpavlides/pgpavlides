@@ -22,7 +22,7 @@
 
 - 📫 How to reach me ...  georgepavlideswork@gmail.com
 
-- 🌳 Check all my projects here: https://linktr.ee/broccolidev
+- 🌳 Check all my projects here: https://pgpavlides.vercel.app/
 
 <br>
 
