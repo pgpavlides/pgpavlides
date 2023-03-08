@@ -18,7 +18,7 @@
 
 - 💼 Currently working as a Freelancer.
   
-- 🌱 Experimenting with React Three Fiber and Vue.
+- 🌱 Experimenting with React Three Fiber.
 
 - 📫 How to reach me ...  georgepavlideswork@gmail.com
 
