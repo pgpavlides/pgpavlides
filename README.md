@@ -20,7 +20,7 @@
   
 - 🌱 Experimenting with React Three Fiber.
 
-- 📫 How to reach me ...  georgepavlideswork@gmail.com
+- 📫 How to reach me ....  georgepavlideswork@gmail.com
 
 - 🌳 Check all my projects here: https://pgpavlides.vercel.app/
 
