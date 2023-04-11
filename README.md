@@ -16,7 +16,7 @@
 
 - 👋 Hi, I’m Broccoli. 🥦 I am a creator who loves to create and explore.
 
-- 💼 Currently working as a Freelancer.
+- 💼 Currently working as a Freelancer
   
 - 🌱 Experimenting with React Three Fiber...
 
