@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/pgpavlides"><img width="35%" alt="Hello, I'm Broccoli. I do Front-End" src="https://i.ibb.co/sP1SZxF/Profile-Starter-2.png" /></a></p>
+<!-- <p align="center"><a href="https://github.com/pgpavlides"><img width="35%" alt="Hello, I'm Broccoli. I do Front-End" src="https://i.ibb.co/sP1SZxF/Profile-Starter-2.png" /></a></p> -->
 
 <div align="center" id="badges">  
   <a href="https://www.linkedin.com/in/pgpavlides/">
@@ -14,7 +14,7 @@
 
 <br>
 
-- 👋 Hi, I’m Broccoli. 🥦 I am a creator who loves to create and explore.
+- 👋 Hi, I’m George. 🥦 I am a creator who loves to create and explore.
 
 - 💼 Currently working as a Freelancer
   
