@@ -22,7 +22,7 @@
 
 📫 For any inquiries or collaborations, you can reach me at pgpavlides@gmail.com.
 
-🌳 Feel free to explore my portfolio and discover more about my projects here: George Pavlides Portfolio.
+🌳 Feel free to explore my portfolio and discover more about my projects here: <a href="https://www.pgpavlides.vercel.app/" title="Portfolio" target="_blank">Portfolio</a>.
 
 <br>
 
