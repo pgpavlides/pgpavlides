@@ -167,7 +167,7 @@
    <a href="https://wordpress.com/" target="_blank"
     ><img
       style="margin: 18px"
-      src="https://www.freepnglogos.com/uploads/wordpress-logo-png/wordpress-logo-png-transparent-wordpress-logo-images-pluspng-6.png"
+      src="[https://www.freepnglogos.com/uploads/wordpress-logo-png/wordpress-logo-png-transparent-wordpress-logo-images-pluspng-6.png](https://i.ibb.co/NWxcM1s/wordpresslogowhite.png)"
       alt="Cubas"
       height="75"
   /></a>
