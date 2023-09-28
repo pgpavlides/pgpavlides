@@ -16,7 +16,7 @@
 
 👋 Hello, I'm George Pavlides, a passionate creator with a strong drive for innovation and exploration.
 
-💼 I am currently working as a Senior Front End Developer at <a href="https://www.linkedin.com/company/egnitegr/about/" title="EGNITE" target="_blank">EGNITE</a>, leveraging my expertise to deliver exceptional projects.
+💼 I am currently working as a Front End Developer at <a href="https://www.linkedin.com/company/egnitegr/about/" title="EGNITE" target="_blank">EGNITE</a>, leveraging my expertise to deliver exceptional projects.
 
 🌱 My current focus lies in the realm of React Three Fiber, where I am continually experimenting and pushing the boundaries of what's possible.
 
