@@ -164,6 +164,14 @@
       alt="Cubas"
       height="75"
   /></a>
+   <a href="https://wordpress.com/" target="_blank"
+    ><img
+      style="margin: 18px"
+      src="[https://i.ibb.co/zmYPJdL/cu8800cbf7-cubase-logo-cubase-icon-small-audient.png](https://seeklogo.com/images/W/wordpress-icon-logo-45667D3313-seeklogo.com.png)"
+      alt="Cubas"
+      height="75"
+  /></a>
+  
 </div>
 
 
