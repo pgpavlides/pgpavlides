@@ -14,15 +14,15 @@
 
 <br>
 
-- 👋 Hi, I’m George. 🥦 I am a creator who loves to create and explore.
+👋 Hello, I'm George Pavlides, a passionate creator with a strong drive for innovation and exploration.
 
-- 💼 Currently working as a Freelancer
-  
-- 🌱 Experimenting with React Three Fiber...
+💼 I am currently working as a Senior Front End Developer at <a href="https://www.linkedin.com/company/egnitegr/about/" title="EGNITE" target="_blank">EGNITE</a>, leveraging my expertise to deliver exceptional projects.
 
-- 📫 How to reach me ....  georgepavlideswork@gmail.com
+🌱 My current focus lies in the realm of React Three Fiber, where I am continually experimenting and pushing the boundaries of what's possible.
 
-- 🌳 Check all my projects here: https://pgpavlides.vercel.app/
+📫 For any inquiries or collaborations, you can reach me at pgpavlides@gmail.com.
+
+🌳 Feel free to explore my portfolio and discover more about my projects here: George Pavlides Portfolio.
 
 <br>
 
