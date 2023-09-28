@@ -102,7 +102,7 @@
   <a href="https://threejs.org/" target="_blank"
     ><img
       style="margin: 18px"
-      src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_1016x1024.png"
+      src="https://i.ibb.co/m64Ldzh/threejslogo.png"
       alt="ThreeJs"
       height="75"
   /></a>
