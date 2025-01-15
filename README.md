@@ -16,7 +16,7 @@
 
 👋 Hello, I'm George Pavlides, a passionate creator with a strong drive for innovation and exploration.
 
-💼 I am currently working as a Freelance Front End Developer leveraging my expertise to deliver exceptional projects.
+💼 I am currently working as a Freelance Fullstack Engineer leveraging my expertise to deliver exceptional projects.
 
 🌱 My current focus lies in the realm of React Three Fiber, where I am continually experimenting and pushing the boundaries of what's possible.
 
