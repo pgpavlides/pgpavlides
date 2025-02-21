@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://www.pgpavlides.com/" target="_blank">
-    <img width="35%" alt="George Pavlides - Fullstack Developer" src="https://i.ibb.co/sP1SZxF/Profile-Starter-2.png" />
-  </a>
-</p>
 
 <h3 align="center">Fullstack Developer & Creative Technologist</h3>
 
