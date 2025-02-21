@@ -1,185 +1,90 @@
-<!-- <p align="center"><a href="https://github.com/pgpavlides"><img width="35%" alt="Hello, I'm Broccoli. I do Front-End" src="https://i.ibb.co/sP1SZxF/Profile-Starter-2.png" /></a></p> -->
-
-<div align="center" id="badges">  
-  <a href="https://www.linkedin.com/in/pgpavlides/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<p align="center">
+  <a href="https://www.pgpavlides.com/" target="_blank">
+    <img width="35%" alt="George Pavlides - Fullstack Developer" src="https://i.ibb.co/sP1SZxF/Profile-Starter-2.png" />
   </a>
-  <a href="https://www.youtube.com/channel/UCTlLqM3MLSVj6h-FNg2qZhQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+</p>
+
+<h3 align="center">Fullstack Developer & Creative Technologist</h3>
+
+<div align="center" style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 2rem; margin: auto;">
+
+  <img width="20%" src="https://raw.githubusercontent.com/gist/vaneseltine/13672fb72cda415b0eb8fa58ea879021/raw/92ecbfa8286f85ffd02c547d983979694230b80a/broccoli.gif" alt="Broccoli Dev" style="flex: 0 0 auto; max-width: 200px;">
+</div>
+
+
+
+<div align="center" id="badges">
+  <!-- Social Badges -->
+  <a href="https://www.linkedin.com/in/pgpavlides/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/pgpavlides">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://twitter.com/BroccoliDevGr">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
 
-<br>
+---
 
-👋 Hello, I'm George Pavlides, a passionate creator with a strong drive for innovation and exploration.
+### 🛠️ Technology Stack
 
-💼 I am currently working as a Freelance Fullstack Engineer leveraging my expertise to deliver exceptional projects.
-
-🌱 My current focus lies in the realm of React Three Fiber, where I am continually experimenting and pushing the boundaries of what's possible.
-
-📫 For any inquiries or collaborations, you can reach me at pgpavlides@gmail.com.
-
-🌳 Feel free to explore my portfolio and discover more about my projects here: <a href="https://www.pgpavlides.com/" title="Portfolio" target="_blank">Portfolio</a>.
-
-<br>
-
-## 🛠️ Languages & Tools
-
+**Frontend Development**  
 <div align="center">
-  <a href="https://www.w3schools.com/css/" target="_blank"
-    ><img
-      style="margin: 18px"
-      src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"
-      alt="CSS3"
-      height="75"
-  /></a>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"
-    ><img
-      style="margin: 18px"
-      src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"
-      alt="HTML5"
-      height="75"
-  /></a>
-  <a href="https://sass-lang.com/" target="_blank"
-    ><img
-      style="margin: 18px"
-      src="https://profilinator.rishav.dev/skills-assets/sass-original.svg"
-      alt="Sass"
-      height="75"
-  /></a>
-  <a href="https://stylus-lang.com/" target="_blank"
-    ><img
-      style="margin: 18px"
-      src="https://stylus-lang.com/logo.svg"
-      alt="Stylus"
-      height="75"
-  /></a>
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"
-    ><img
-      style="margin: 18px"
-      src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"
-      alt="Bootstrap"
-      height="75"
-  /></a>
-  <a href="https://www.tailwindcss.com/" target="_blank"
-    ><img
-      style="margin: 18px"
-      src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg"
-      alt="Tailwind CSS"
-      height="75"
-  /></a>
-  <a href="https://www.javascript.com/" target="_blank"
-    ><img
-      style="margin: 18px"
-      src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
-      alt="JavaScript"
-      height="75"
-  /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"
-    ><img
-      style="margin: 18px"
-      src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg"
-      alt="TypeScript"
-      height="75"
-  /></a>
-  <a href="https://reactjs.org/" target="_blank"
-    ><img
-      style="margin: 18px"
-      src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"
-      alt="React"
-      height="75"
-  /></a>
-  <a href="https://mui.com/" target="_blank"
-    ><img
-      style="margin: 18px"
-      src="https://github.com/mui/material-ui/raw/master/docs/public/static/logo.svg"
-      alt="MUI"
-      height="75"
-  /></a> 
-  <a href="https://threejs.org/" target="_blank"
-    ><img
-      style="margin: 18px"
-      src="https://i.ibb.co/m64Ldzh/threejslogo.png"
-      alt="ThreeJs"
-      height="75"
-  /></a>
-  <a href="https://www.mongodb.com/" target="_blank"
-    ><img
-      style="margin: 18px"
-      src="https://www.svgrepo.com/show/331488/mongodb.svg"
-      alt="MongoDB"
-      height="75"
-  /></a>
-  <a href="https://github.com/" target="_blank"
-    ><img
-      style="margin: 18px"
-      src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"
-      alt="Git"
-      height="75"
-  /></a>
-  <a href="https://nodejs.org/" target="_blank"
-    ><img
-      style="margin: 18px"
-      src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg"
-      alt="Node.js"
-      height="75"
-  /></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"
-    ><img
-      style="margin: 18px"
-      src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg"
-      alt="Photoshop"
-      height="75"
-  /></a>
-  <a
-    href="https://www.adobe.com/products/photoshop-lightroom.html"
-    target="_blank"
-    ><img
-      style="margin: 18px"
-      src="https://profilinator.rishav.dev/skills-assets/lightroom.png"
-      alt="Lightroom"
-      height="75"
-  /></a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank"
-    ><img
-      style="margin: 18px"
-      src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/pr_appicon.svg"
-      alt="Premier"
-      height="75"
-  /></a>
-  <a href="https://www.figma.com/" target="_blank"
-    ><img
-      style="margin: 18px"
-      src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg"
-      alt="Figma"
-      height="75"
-  /></a>
-  <a href="https://www.steinberg.net/cubase/" target="_blank"
-    ><img
-      style="margin: 18px"
-      src="https://i.ibb.co/zmYPJdL/cu8800cbf7-cubase-logo-cubase-icon-small-audient.png"
-      alt="Cubas"
-      height="75"
-  /></a>
-   <a href="https://wordpress.com/" target="_blank"
-    ><img
-      style="margin: 18px"
-      src="https://i.ibb.co/NWxcM1s/wordpresslogowhite.png"
-      alt="Wordpress"
-      height="75"
-  /></a>
-  
+  <img src="https://skillicons.dev/icons?i=nextjs,react,threejs,ts,js,html,css,sass,tailwind,styledcomponents,figma" alt="Frontend Technologies" />
 </div>
 
+**Backend & Databases**  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,graphql,postgres,firebase,express" alt="Backend Technologies" />
+</div>
 
+**Tools & Platforms**  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,aws,vercel,netlify,webpack" alt="Tools & Platforms" />
+</div>
 
+---
 
+### 🚀 Featured Projects
 
-</td><td valign="top" width="33%">
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **3D Portfolio Platform** | Interactive portfolio with WebGL experiences | Next.js, Three.js, Framer Motion | [View Live](https://www.pgpavlides.com/) |
+| **--** | -- | --|
+| **--** | -- | -- |
 
+---
 
+### 📈 GitHub Analytics
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pgpavlides&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=pgpavlides&theme=dark"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgpavlides&layout=compact&theme=dark&langs_count=6"/>
+</div>
+---
 
+### 🌱 Current Focus
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=wasm,rust,react,threejs,blender,ae" alt="Current Focus" />
+  <p>Exploring WebAssembly performance optimizations and 3D Web experiences</p>
+</div>
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+  <a href="mailto:pgpavlides@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.pgpavlides.com">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://calendly.com/pgpavlides">
+    <img src="https://img.shields.io/badge/Schedule_Meeting-008080?style=for-the-badge&logo=google-meet&logoColor=white" alt="Calendly"/>
+  </a>
+</div>
