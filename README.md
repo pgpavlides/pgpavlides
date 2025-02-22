@@ -1,4 +1,5 @@
 
+<img src="images/hibroccoli.png" alt="LinkedIn"/>
 <h3 align="center">Fullstack Developer & Creative Technologist</h3>
 
 <div align="center" style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 2rem; margin: auto;">
