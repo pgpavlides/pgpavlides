@@ -9,7 +9,7 @@
       <div align="center">
         <img
           width="90%"
-          src="https://raw.githubusercontent.com/gist/vaneseltine/13672fb72cda415b0eb8fa58ea879021/raw/92ecbfa8286f85ffd02c547d983979694230b80a/broccoli.gif"
+          src="images/broccoli-eats-broccoli.gif"
           alt="Broccoli Dev"
         />
       </div>
@@ -110,21 +110,28 @@
 ---
 
 <div>
+  
   <div align="center">
+    <h1>Technologies</h1>
     <img
-      src="https://skillicons.dev/icons?i=nextjs,react,threejs,ts,js,html,css,sass,tailwind,styledcomponents,figma"
+      src="https://skillicons.dev/icons?i=nextjs,react,threejs,mui,ts,js,html,css,sass,tailwind,styledcomponents"
       alt="Frontend Technologies"
     />
   </div>
   <div align="center">
     <img
-      src="https://skillicons.dev/icons?i=nodejs,mongodb,graphql,postgres,firebase,express"
+      src="https://skillicons.dev/icons?i=lua,nodejs,mongodb,graphql,postgres,firebase,express,php,jquery"
       alt="Backend Technologies"
     />
   </div>
   <div align="center">
+    <h1>Tools</h1>
     <img
-      src="https://skillicons.dev/icons?i=git,github,aws,vercel,netlify,webpack"
+      src="https://skillicons.dev/icons?i=git,pnpm,yarn,github,postman,vitest,aws,vercel,netlify,webpack,vscode"
+      alt="Tools & Platforms"
+    />
+    <img
+      src="https://skillicons.dev/icons?i=wordpress,vite,figma,photoshop,pr,au,illustrator,blender,godot"
       alt="Tools & Platforms"
     />
   </div>
@@ -244,6 +251,14 @@
 --- 
 
 ### 📫 Let's Connect
+
+ <div align="center">
+        <img
+          width="10%"
+          src="images/boiling-broccoli.gif"
+          alt="Broccoli Dev"
+        />
+      </div>
 
 <div align="center">
   <a href="mailto:pgpavlides@gmail.com">
