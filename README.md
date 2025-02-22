@@ -53,12 +53,11 @@
         />
         <img
           align="center"
-          height="125"
-          width="300"
+          height="185"
+          width="500"
           src="https://github-readme-streak-stats.herokuapp.com/?user=pgpavlides&ring_color=99cc66&fire=2cc970&sideNums=339966&currStreakLabel=99cc66&currStreakNum=2cc970&border=99cc66&background=ffffff00"
         />
       </picture>
-      <div>
         <picture align="center">
           <source
             media="(prefers-color-scheme: dark)"
@@ -99,7 +98,6 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgpavlides&layout=compact&title_color=99cc66&text_color=2cc970&icon_color=339966&border_color=99cc66&bg_color=ffffff00&langs_count=6"
           />
         </picture>
-      </div>
     </td>
   </tr>
 </table>
