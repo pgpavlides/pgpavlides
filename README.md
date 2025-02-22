@@ -171,7 +171,7 @@
     </td>
     <td>
       <a href="https://face-galaxy.vercel.app/">
-        <img src="images/face_galaxy.png" width="300" alt="Project 3" />
+        <img src="images/face_galaxy.png" width="350" alt="Project 3" />
       </a>
       <h3>Face Galaxy</h3>
       <p>A galaxy where you can add your own face</p>
@@ -188,7 +188,7 @@
   <tr>
     <td>
       <a href="https://puzzlecube.vercel.app/">
-        <img src="images/puzzlecube.png" width="200" alt="Chat Interface"/>
+        <img src="images/puzzlecube.png"  width="400"  alt="Chat Interface"/>
       </a>
       <h3>Puzzle Cube</h3>
       <p>Solve the cube with the riddles!</p>
@@ -197,7 +197,7 @@
     </td>
     <td>
       <a href="https://memecube.vercel.app/">
-        <img src="images/memecube.png" width="200" alt="Online Store"/>
+        <img src="images/memecube.png"  width="400" alt="Online Store"/>
       </a>
       <h3>Meme Cube</h3>
       <p>Press the button to play </br> meme sounds!</p>
@@ -206,7 +206,7 @@
     </td>
     <td>
       <a href="https://hexagonalpeace.vercel.app/">
-        <img src="images/hexagonalpeace.png" width="200" alt="AI Dashboard"/>
+        <img src="images/hexagonalpeace.png"  width="400" alt="AI Dashboard"/>
       </a>
       <h3>Hexagonal Piece</h3>
       <p>Click and find peace </br> wit the hexagons!</p>
@@ -215,7 +215,7 @@
     </td>
     <td>
       <a href="https://ball-game-v2-git-master-pgpavlides.vercel.app/">
-        <img src="images/ballgame.png" width="200" alt="AR Experience"/>
+        <img src="images/ballgame.png"  width="400" alt="AR Experience"/>
       </a>
       <h3>Ball Game</h3>
       <p>⚠️ Under Heavy Development ⚠️</p>
@@ -224,7 +224,7 @@
     </td>
     <td>
       <a href="https://ball-game-v2-git-master-pgpavlides.vercel.app/">
-        <img src="images/monkey-alphabet.png" width="200" alt="Game Screenshot"/>
+        <img src="images/monkey-alphabet.png"  width="400" alt="Game Screenshot"/>
       </a>
       <h3>Monkey Language</h3>
       <p>Ever wanted to learn </br> to speak monkey?🍌</p>
