@@ -13,7 +13,7 @@
           alt="Broccoli Dev"
         />
       </div>
-      <p align="center">Fullstack developer passionate about building </br> immersive web  
+      <p align="center">Fullstack developer passionate about</br> building  immersive web  
   experiences and efficient systems. </br> Specialize in React/Next.js </p>
       <div align="center" id="badges">
         <a href="https://www.linkedin.com/in/pgpavlides/">
