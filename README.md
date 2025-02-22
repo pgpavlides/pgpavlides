@@ -138,7 +138,7 @@
       <a href="https://github.com/pgpavlides/mprokolo">
         <img
           src="images/broccoli_next_create.png"
-          width="250"
+          width="500"
           alt="3D Portfolio Platform"
         />
       </a>
@@ -147,24 +147,15 @@
         Coding assistant application that connect's to your repository and can
         compress your repository to a single `.md` file
       </p>
-      <p>🛠️ Next.js, Framer Motion (NOT LIVE)</p>
+      <p>🛠️ Next.js, Framer Motion (NOT LIVE, can copy localy)</p>
       <a
         href="https://github.com/pgpavlides/mprokolo"
-        style="
-          display: inline-block;
-          padding: 8px 12px;
-          background-color: #007bff;
-          color: white;
-          text-decoration: none;
-          border-radius: 5px;
-          margin-top: 5px;
-        "
-        >View Live</a
+        >View Repository</a
       >
     </td>
     <td>
       <a href="https://www.pgpavlides.com">
-        <img src="images/cmd_profile.png" width="250" alt="Project 2" />
+        <img src="images/cmd_profile.png" width="350" alt="Project 2" />
       </a>
       <h3>Personal Portfolio</h3>
       <p>My personal portfolio created with Vanilla Javascript</p>
@@ -173,7 +164,7 @@
     </td>
     <td>
       <a href="https://face-galaxy.vercel.app/">
-        <img src="images/face_galaxy.png" width="250" alt="Project 3" />
+        <img src="images/face_galaxy.png" width="300" alt="Project 3" />
       </a>
       <h3>Face Galaxy</h3>
       <p>A galaxy where you can add your own face</p>
