@@ -42,15 +42,41 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| **3D Portfolio Platform** | Interactive portfolio with WebGL experiences | Next.js, Three.js, Framer Motion | [View Live](https://www.pgpavlides.com/) |
-| **--** | -- | --|
-| **--** | -- | -- |
 
----
+<table style="width:100%; border-collapse: collapse; text-align: center;">
+  <tr>
+    <td style="padding: 15px; border: 1px solid #ddd;">
+      <a href="https://www.pgpavlides.com/">
+        <img src="https://github.com/pgpavlides/mprokolo/raw/master/docs/screenshots/1_home.png" width="250" style="border-radius: 10px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);" alt="3D Portfolio Platform">
+      </a>
+      <h3 style="margin-top: 10px; font-size: 18px; color: #333;">3D Portfolio Platform</h3>
+      <p style="font-size: 14px; color: #555;">Interactive portfolio with WebGL experiences</p>
+      <p style="font-size: 12px; color: #888;">🛠️ Next.js, Three.js, Framer Motion</p>
+      <a href="https://www.pgpavlides.com/" style="display: inline-block; padding: 8px 12px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; margin-top: 5px;">View Live</a>
+    </td>
+    <td style="padding: 15px; border: 1px solid #ddd;">
+      <a href="#">
+        <img src="https://via.placeholder.com/250" width="250" style="border-radius: 10px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);" alt="Project 2">
+      </a>
+      <h3 style="margin-top: 10px; font-size: 18px; color: #333;">Project Name</h3>
+      <p style="font-size: 14px; color: #555;">Project Description</p>
+      <p style="font-size: 12px; color: #888;">🛠️ Tech Stack</p>
+      <a href="#" style="display: inline-block; padding: 8px 12px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; margin-top: 5px;">View Live</a>
+    </td>
+    <td style="padding: 15px; border: 1px solid #ddd;">
+      <a href="#">
+        <img src="https://via.placeholder.com/250" width="250" style="border-radius: 10px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);" alt="Project 3">
+      </a>
+      <h3 style="margin-top: 10px; font-size: 18px; color: #333;">Project Name</h3>
+      <p style="font-size: 14px; color: #555;">Project Description</p>
+      <p style="font-size: 12px; color: #888;">🛠️ Tech Stack</p>
+      <a href="#" style="display: inline-block; padding: 8px 12px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; margin-top: 5px;">View Live</a>
+    </td>
+  </tr>
+</table>
+
 
 ### 📈 GitHub Analytics
 
