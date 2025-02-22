@@ -180,53 +180,53 @@
   <!-- Row 1 -->
   <tr>
     <td>
-      <a href="#">
-        <img src="images/chat_app.png" width="150" alt="Chat Interface"/>
+      <a href="https://puzzlecube.vercel.app/">
+        <img src="images/puzzlecube.png" width="200" alt="Chat Interface"/>
       </a>
-      <h3>Real-Time Chat</h3>
-      <p>Socket.io messaging platform</p>
-      <p>🛠️ Node.js, React</p>
-      <a href="#">Repo</a>
+      <h3>Puzzle Cube</h3>
+      <p>Solve the cube with the riddles!</p>
+      <p>🛠️ Javascript, Threejs</p>
+      <a href="https://puzzlecube.vercel.app/">Play</a>
     </td>
     <td>
-      <a href="#">
-        <img src="images/ecommerce.png" width="150" alt="Online Store"/>
+      <a href="https://memecube.vercel.app/">
+        <img src="images/memecube.png" width="200" alt="Online Store"/>
       </a>
-      <h3>E-Commerce</h3>
-      <p>Full-stack shopping platform</p>
-      <p>🛠️ Next.js, Stripe</p>
-      <a href="#">Live</a>
+      <h3>Meme Cube</h3>
+      <p>Press the button to play </br> meme sounds!</p>
+      <p>🛠️ Javascript, Threejs</p>
+      <a href="https://memecube.vercel.app/">Live</a>
     </td>
     <td>
-      <a href="#">
-        <img src="images/ai_dashboard.png" width="150" alt="AI Dashboard"/>
+      <a href="https://hexagonalpeace.vercel.app/">
+        <img src="images/hexagonalpeace.png" width="200" alt="AI Dashboard"/>
       </a>
-      <h3>AI Analytics</h3>
-      <p>ML insights visualization</p>
-      <p>🛠️ Python, TensorFlow</p>
-      <a href="#">Repo</a>
+      <h3>Hexagonal Piece</h3>
+      <p>Click and find peace </br> wit the hexagons!</p>
+      <p>🛠️ Javascript, Threejs</p>
+      <a href="https://hexagonalpeace.vercel.app/">Repo</a>
     </td>
     <td>
-      <a href="#">
-        <img src="images/ar_app.png" width="150" alt="AR Experience"/>
+      <a href="https://ball-game-v2-git-master-pgpavlides.vercel.app/">
+        <img src="images/ballgame.png" width="200" alt="AR Experience"/>
       </a>
-      <h3>AR Viewer</h3>
-      <p>3D product preview app</p>
-      <p>🛠️ ARKit, Swift</p>
-      <a href="#">Demo</a>
+      <h3>Ball Game</h3>
+      <p>⚠️ Under Heavy Development ⚠️</p>
+      <p>🛠️ React, React Three Fiber</p>
+      <a href="https://ball-game-v2-git-master-pgpavlides.vercel.app/">Demo</a>
     </td>
     <td>
-      <a href="#">
-        <img src="images/game_dev.png" width="150" alt="Game Screenshot"/>
+      <a href="https://ball-game-v2-git-master-pgpavlides.vercel.app/">
+        <img src="images/monkey-alphabet.png" width="200" alt="Game Screenshot"/>
       </a>
-      <h3>2D Platformer</h3>
-      <p>Retro-style adventure game</p>
-      <p>🛠️ Unity, C#</p>
-      <a href="#">Play</a>
+      <h3>Monkey Language</h3>
+      <p>Ever wanted to learn </br> to speak monkey?🍌</p>
+      <p>🛠️ React</p>
+      <a href="https://monkey-alphabet.vercel.app/">Play</a>
     </td>
   </tr>
+</table>
 
-  <!-- Row 2 -->
   
 
 --- 
