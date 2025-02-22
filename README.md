@@ -99,6 +99,9 @@
           />
         </picture>
       <p>Byte sprouted in a code compost heap, his florets compiling bugs into features. </br> While others coded in straight lines, he grew recursive branches - solving </br> errors through photosynthesis logic. Now his git pushes </br> bloom across repositories, planting terminal wisdom in root directories.</p>
+  <div align="center">
+    🥦
+  </div>
     </td>
   
   </tr>
