@@ -200,7 +200,7 @@
         <img src="images/memecube.png"  width="400" alt="Online Store"/>
       </a>
       <h3>Meme Cube</h3>
-      <p>Press the button to play </br> meme sounds!</p>
+      <p>Press the button to </br> play  meme sounds!</p>
       <p>🛠️ Javascript, Threejs</p>
       <a href="https://memecube.vercel.app/">Live</a>
     </td>
