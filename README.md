@@ -73,8 +73,8 @@
           />
           <img
             align="center"
-            height="125"
-            width="300"
+            height="110"
+            width="260"
             src="https://github-readme-stats.vercel.app/api?username=pgpavlides&show_icons=true&title_color=99cc66&text_color=2cc970&icon_color=339966&border_color=99cc66&bg_color=ffffff00&include_all_commits=true&count_private=true"
           />
         </picture>
@@ -93,8 +93,8 @@
           />
           <img
             align="center"
-            height="165"
-            width="300"
+            height="145"
+            width="200"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgpavlides&layout=compact&title_color=99cc66&text_color=2cc970&icon_color=339966&border_color=99cc66&bg_color=ffffff00&langs_count=6"
           />
         </picture>
