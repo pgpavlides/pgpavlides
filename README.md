@@ -8,7 +8,7 @@
       <h3 align="center">Fullstack Developer & Creative Technologist</h3>
       <div align="center">
         <img
-          width="70%"
+          width="90%"
           src="https://raw.githubusercontent.com/gist/vaneseltine/13672fb72cda415b0eb8fa58ea879021/raw/92ecbfa8286f85ffd02c547d983979694230b80a/broccoli.gif"
           alt="Broccoli Dev"
         />
