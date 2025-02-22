@@ -91,7 +91,7 @@
             "
           />
           <img
-            height="125"
+            height="165"
             width="300"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgpavlides&layout=compact&title_color=99cc66&text_color=2cc970&icon_color=339966&border_color=99cc66&bg_color=ffffff00&langs_count=6"
           />
