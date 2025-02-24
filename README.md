@@ -154,10 +154,10 @@
         Coding assistant application that connect's to your repository and can
         compress your repository to a single `.md` file
       </p>
-      <p>🛠️ Next.js, Framer Motion (NOT LIVE, can copy localy)</p>
+      <p>🛠️ Next.js, Framer Motion</p>
       <a
-        href="https://github.com/pgpavlides/mprokolo"
-        >View Repository</a
+        href="https://mprokolo.gr/"
+        >View Live</a
       >
     </td>
     <td>
