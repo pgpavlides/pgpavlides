@@ -157,8 +157,12 @@
       <p>🛠️ Next.js, Framer Motion</p>
       <a
         href="https://mprokolo.gr/"
-        >View Live</a
+        >View Live <--- 🔗 </a
       >
+      <a
+        href="https://github.com/pgpavlides/mprokolo"
+        > ---> View Repository</a
+      >      
     </td>
     <td>
       <a href="https://www.pgpavlides.com">
