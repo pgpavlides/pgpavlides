@@ -238,7 +238,48 @@
   </tr>
 </table>
 
-  
+## 🎭 Roleplaying Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://daltons.gr/">
+        <img
+          src="images/daltons-server.png"
+          width="500"
+          alt="Mafia Management System"
+        />
+      </a>
+      <h3>Mafia Management System</h3>
+      <p>
+        Complete management system for roleplaying communities featuring Discord integration, 
+        mission assignment with interactive maps and pins, member statistics tracking, 
+        and user management through Discord.
+      </p>
+      <p>🛠️ Discord.js, Supabase, Node.js, Interactive Maps</p>
+      <p>📊 Features: Mission Tracking, Member Stats, Discord Bot Integration</p>
+      <a href="https://daltons.gr/">View Live</a>
+    </td>
+    <td>
+      <a href="https://tokyomechanic.gr/">
+        <img
+          src="images/tokyo-server.png" 
+          width="500" 
+          alt="Mechanic Shop Management System"
+        />
+      </a>
+      <h3>Mechanic Shop Management System</h3>
+      <p>
+        Advanced shop management system for gaming communities with receipt tracking, 
+        economic analytics, Discord connectivity, and support for managing up to 2 
+        mechanic shops simultaneously with detailed financial insights.
+      </p>
+      <p>🛠️ Discord.js, Supabase, Node.js, Analytics Dashboard</p>
+      <p>📈 Features: Sales Tracking, Economic Stats, Multi-Shop Support</p>
+      <a href="https://tokyomechanic.gr/">View Live</a>
+    </td>
+  </tr>
+</table>
 
 --- 
 
