@@ -321,7 +321,7 @@
   <a href="https://calendly.com/pgpavlides">
     <img
       src="https://img.shields.io/badge/Schedule_Meeting-008080?style=for-the-badge&logo=google-meet&logoColor=white"
-      alt="Calendly"
+      alt="Calendly1"
     />
   </a>
 </div>
