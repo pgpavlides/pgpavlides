@@ -278,6 +278,21 @@
       <p>📈 Features: Sales Tracking, Economic Stats, Multi-Shop Support</p>
       <a href="https://tokyomechanic.gr/">View Live</a>
     </td>
+    <td>
+      <img
+        src="images/quest_mechanic.png"
+        width="500"
+        alt="Mechanic Shop Calculator"
+      />
+      <h3>Mechanic Shop Calculator</h3>
+      <p>
+        Advanced calculation tool for mechanic shops with comprehensive car parts 
+        management and receipt generation. Features detailed pricing calculations 
+        and parts inventory tracking for roleplaying communities.
+      </p>
+      <p>🛠️ React, Node.js, Database Integration</p>
+      <p>🔧 Features: Advanced Calculations, Car Parts Management, Receipt Generation</p>
+    </td>
   </tr>
 </table>
 
@@ -321,7 +336,7 @@
   <a href="https://calendly.com/pgpavlides">
     <img
       src="https://img.shields.io/badge/Schedule_Meeting-008080?style=for-the-badge&logo=google-meet&logoColor=white"
-      alt="Calendly1"
+      alt="Calendly"
     />
   </a>
 </div>
