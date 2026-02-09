@@ -3,7 +3,7 @@
   <tr>
     <!-- Left Column -->
     <td align="left" valign="top">
-      <h3 align="center">Fullstack Developer & Creative Technologist</h3>
+      <h3 align="center">George Pavlides</h3>
       <div align="center">
         <img
           width="90%"
@@ -11,8 +11,7 @@
           alt="Broccoli Dev"
         />
       </div>
-      <p align="center">Fullstack developer passionate about</br> building  immersive web  
-  experiences and efficient systems. </br> Specialize in React/Next.js, CMS Architecture,</br> and Enterprise Application Development.</p>
+      <p align="center">Fullstack Developer & Creative Technologist</p>
       <div align="center" id="badges">
         <a href="https://www.linkedin.com/in/pgpavlides/">
           <img
@@ -96,10 +95,7 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgpavlides&layout=compact&title_color=99cc66&text_color=2cc970&icon_color=339966&border_color=99cc66&bg_color=ffffff00&langs_count=6"
           />
         </picture>
-      <p>Hey, I'm <strong>George Pavlides</strong> — a fullstack developer from Greece </br> who turns ideas into fast, polished web experiences. </br> I love building things that work well and look even better, </br> from CMS architectures to 3D interactive apps.</p>
-  <div align="center">
-    🥦
-  </div>
+      <p>Hey, I'm <strong>George Pavlides</strong> — a fullstack developer from Greece </br> who turns ideas into fast, polished web experiences. </br> I love building things that work well and look even better, </br> from CMS architectures to 3D interactive apps. </br></br> Currently working at <a href="https://iegroup.gr/">IE Group</a> 🥦</p>
     </td>
   
   </tr>
@@ -191,6 +187,11 @@
     <td>🤖</td>
     <td><strong>AI Productivity Integration</strong></td>
     <td>Introduced AI-driven workflows to the team, boosting overall productivity by 2–3x through training and tooling guidance.</td>
+  </tr>
+  <tr>
+    <td>📡</td>
+    <td><strong>MQTT Rework</strong></td>
+    <td>Reworked the MQTT implementation to improve performance, resulting in faster and more reliable real-time communication across the platform.</td>
   </tr>
   <tr>
     <td>🎧</td>
