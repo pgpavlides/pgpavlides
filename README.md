@@ -1,5 +1,3 @@
-<img src="images/hibroccoli.png" alt="LinkedIn" />
-
 <!-- Columns Container -->
 <table>
   <tr>
@@ -14,7 +12,7 @@
         />
       </div>
       <p align="center">Fullstack developer passionate about</br> building  immersive web  
-  experiences and efficient systems. </br> Specialize in React/Next.js </p>
+  experiences and efficient systems. </br> Specialize in React/Next.js, CMS Architecture,</br> and Enterprise Application Development.</p>
       <div align="center" id="badges">
         <a href="https://www.linkedin.com/in/pgpavlides/">
           <img
@@ -98,7 +96,7 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgpavlides&layout=compact&title_color=99cc66&text_color=2cc970&icon_color=339966&border_color=99cc66&bg_color=ffffff00&langs_count=6"
           />
         </picture>
-      <p>Byte sprouted in a code compost heap, his florets compiling bugs into features. </br> While others coded in straight lines, he grew recursive branches - solving </br> errors through photosynthesis logic. Now his git pushes </br> bloom across repositories, planting terminal wisdom in root directories.</p>
+      <p>Hey, I'm <strong>George Pavlides</strong> — a fullstack developer from Greece </br> who turns ideas into fast, polished web experiences. </br> I love building things that work well and look even better, </br> from CMS architectures to 3D interactive apps.</p>
   <div align="center">
     🥦
   </div>
@@ -109,33 +107,99 @@
 
 ---
 
-<div>
-  
-  <div align="center">
-    <h1>Technologies</h1>
-    <img
-      src="https://skillicons.dev/icons?i=nextjs,react,threejs,mui,ts,js,html,css,sass,tailwind,styledcomponents"
-      alt="Frontend Technologies"
-    />
-  </div>
-  <div align="center">
-    <img
-      src="https://skillicons.dev/icons?i=lua,nodejs,mongodb,graphql,postgres,firebase,express,php,jquery"
-      alt="Backend Technologies"
-    />
-  </div>
-  <div align="center">
-    <h1>Tools</h1>
-    <img
-      src="https://skillicons.dev/icons?i=git,pnpm,yarn,github,postman,vitest,aws,vercel,netlify,webpack,vscode"
-      alt="Tools & Platforms"
-    />
-    <img
-      src="https://skillicons.dev/icons?i=wordpress,vite,figma,photoshop,pr,au,illustrator,blender,godot"
-      alt="Tools & Platforms"
-    />
-  </div>
+<div align="center">
+  <h1>🧑‍💻 Tech Stack</h1>
 </div>
+
+<div align="center">
+  <h3>⚡ Frontend</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,threejs,ts,js,html,css&perline=7" alt="Frontend Core" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,sass,styledcomponents,mui,jquery&perline=5" alt="Frontend Styling" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🗄️ Backend & Databases</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,java,php,lua&perline=5" alt="Backend" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,supabase,graphql&perline=5" alt="Databases" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🛠️ DevOps & Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,aws,vercel,netlify,webpack,vite,pnpm,yarn&perline=9" alt="DevOps" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,postman,vitest,wordpress&perline=4" alt="Dev Tools" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🎨 Design & Creative</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,pr,au,blender,godot&perline=7" alt="Design & Creative" />
+  </a>
+</div>
+
+---
+
+## 💼 Professional Experience Highlights
+
+<table>
+  <tr>
+    <td>🏗️</td>
+    <td><strong>Custom CMS + Next.js Frontend System</strong></td>
+    <td>Architected and built a complete WordPress CMS backend with a Next.js frontend from scratch in 2 months — now powering 6 live production sites with pixel-perfect design implementation.</td>
+  </tr>
+  <tr>
+    <td>⚡</td>
+    <td><strong>Admin Application Refactor — 3x Performance Boost</strong></td>
+    <td>Solo-refactored an enterprise admin application in 2 months (previously took another developer 1 year). Handled design, layout, UI, implementation, and testing — delivering 3x faster performance.</td>
+  </tr>
+  <tr>
+    <td>☕</td>
+    <td><strong>Legacy Java Backend Refactor</strong></td>
+    <td>Refactored an aging Java backend, significantly improving application speed and reliability across the platform.</td>
+  </tr>
+  <tr>
+    <td>🔧</td>
+    <td><strong>AnyDesk Connection Tool</strong></td>
+    <td>Designed and deployed an internal tool for the team to seamlessly connect to AnyDesk machines distributed worldwide.</td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td><strong>Deploy Automation System</strong></td>
+    <td>Created a deployment automation application covering all project locations, streamlining the release pipeline.</td>
+  </tr>
+  <tr>
+    <td>🤖</td>
+    <td><strong>AI Productivity Integration</strong></td>
+    <td>Introduced AI-driven workflows to the team, boosting overall productivity by 2–3x through training and tooling guidance.</td>
+  </tr>
+  <tr>
+    <td>🎧</td>
+    <td><strong>Ongoing Client Support</strong></td>
+    <td>Providing continuous client support and troubleshooting throughout the week, ensuring uptime and satisfaction.</td>
+  </tr>
+</table>
+
+---
 
 ## 🚀 Featured Projects
 
